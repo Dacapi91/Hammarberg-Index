@@ -6,7 +6,7 @@ spectral information. It is a spectral slope measurements and can be used as a f
 The Hammarberg Index is defined as the intensity difference [in dB] between the maximum intensity in a
 lower frequency band [0–2000 Hz] versus a higher frequency band [2000–5000 Hz] [2]
 
-# References
+**References**
 
 [1] HAMMARBERG, Britta, et al. Perceptual and acoustic correlates of abnormal voice
     qualities. Acta oto-laryngologica, 1980, vol. 90, no 1-6, p. 441-451.
