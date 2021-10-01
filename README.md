@@ -19,7 +19,7 @@ lower frequency band [0–2000 Hz] versus a higher frequency band [2000–5000 H
     p. 781.
     
 
-# MIT License
+**MIT License**
 
 Copyright (c) 2021 David Castro Piñol
 
