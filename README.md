@@ -28,12 +28,12 @@ lower frequency band [0–2000 Hz] versus a higher frequency band [2000–5000 H
 
 **References**
 
-[1] HAMMARBERG, Britta, et al. Perceptual and acoustic correlates of abnormal voice
-    qualities. Acta oto-laryngologica, 1980, vol. 90, no 1-6, p. 441-451.
-    
-[2] SCHMIDT, Juliane; JANSE, Esther; SCHARENBORG, Odette. Perception of emotion in
-    conversational speech by younger and older listeners. Frontiers in psychology, 2016, vol. 7,
-    p. 781.
+    [1] HAMMARBERG, Britta, et al. Perceptual and acoustic correlates of abnormal voice
+        qualities. Acta oto-laryngologica, 1980, vol. 90, no 1-6, p. 441-451.
+
+    [2] SCHMIDT, Juliane; JANSE, Esther; SCHARENBORG, Odette. Perception of emotion in
+        conversational speech by younger and older listeners. Frontiers in psychology, 2016, vol. 7,
+        p. 781.
     
 
 **MIT License**
