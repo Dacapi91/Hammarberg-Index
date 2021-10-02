@@ -1,12 +1,29 @@
 # Hammarberg-Index
 
-This repository contains the implementation the Hammarberg Index following the instructions and making adaptations from
+This repository contains the implementation of the Hammarberg Index following the instructions and making adaptations from
 the original article [1]. This index value is applied in speech signals and is related to the vocal effort reflected in the
 spectral information. It is a spectral slope measurements and can be used as a feature in emotionally expressive speech.
 The Hammarberg Index is defined as the intensity difference [in dB] between the maximum intensity in a
 lower frequency band [0–2000 Hz] versus a higher frequency band [2000–5000 Hz] [2]
 
 ![Hammarbeg-Index](https://user-images.githubusercontent.com/55755680/135444548-2c458fa8-5e0a-4900-b33e-dbd1daa1c6a8.png)
+
+**Implementation details**
+
+    The signal must be more than 5 seconds of duration. This is a temporal suggestion. Based on the
+    data that the experiments conducted in [1] used speech signals of duration around 40
+    seconds. 
+
+    The speech signal should not contain relevant noise components. It is assumed a clean
+    speech signal or a preprocessing stage that attenuates the noise before the computation
+    of the Hammarberg Index. Otherwise, high power noise frequency components will mask
+    the relevant frequencies involved in the computation of the index. This might be a
+    limitation in a high noise environment. 
+
+    The speech signal must be sampled at least 12KHz. This is implied due to the fact that
+    there is a need to compute properly a maximum of 5KHz component
+
+    The signal must be .wav format according to the code implemented.
 
 
 **References**
