@@ -1,7 +1,6 @@
 # Hammarberg-Index
 
-This repository contains the implementation of the Hammarberg Index following the instructions and making adaptations from
-the original article [1]. This index value is applied in speech signals and is related to the vocal effort reflected in the
+This repository contains the implementation of the Hammarberg Index [1]. This index value is applied in speech signals and is related to the vocal effort reflected in the
 spectral information. It is a spectral slope measurements and can be used as a feature in emotionally expressive speech.
 The Hammarberg Index is defined as the intensity difference [in dB] between the maximum intensity in a
 lower frequency band [0–2000 Hz] versus a higher frequency band [2000–5000 Hz] [2]
